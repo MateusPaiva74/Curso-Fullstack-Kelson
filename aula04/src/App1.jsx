@@ -1,5 +1,5 @@
 import React from 'react'
-import Exercicio1 from './components/Exercicio1'
+import Exercicio1 from './components/Exercicio1.jsx'
 
 const App = () => {
   return (
