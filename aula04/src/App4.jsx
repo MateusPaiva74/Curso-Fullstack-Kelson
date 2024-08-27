@@ -1,10 +1,10 @@
 import React from 'react'
-import FormularioDeContato from './components/FormularioDeContato'
+import Campanha from './components/Campanha'
 
 const App = () => {
   return (
     <>
-        <FormularioDeContato/>
+      <Campanha mes="setembro" />
     </>
   )
 }
