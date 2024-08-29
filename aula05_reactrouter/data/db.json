@@ -1,0 +1,14 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "As aulas começam em agosto",
+            "texto": "já?"
+        },
+        {
+            "id": 2,
+            "titulo": "Feriado 25",
+            "texto": "Aleluia"
+        }
+    ]
+}
