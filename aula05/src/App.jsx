@@ -1,10 +1,10 @@
 import React from 'react'
-import AdicionarAluno from './components/AdicionarAluno'
+import FormularioDeContato from './components/FormularioDeContato'
 
 const App = () => {
   return (
     <div>
-      <AdicionarAluno/>
+      <FormularioDeContato/>
     </div>
   )
 }

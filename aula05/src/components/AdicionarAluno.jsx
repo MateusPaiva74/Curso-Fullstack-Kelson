@@ -12,9 +12,7 @@ const AdicionarAluno = () => {
         alert("Aluno cadastrado com sucesso")
     }
   return (
-    <div className="">
-
-    </div>
+    <button onClick={addAluno}>Adicionar Fulano</button>
   )
 }
 
